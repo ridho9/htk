@@ -1,0 +1,47 @@
+WARNING: no script file sort.lex.ded
+
+Dictionary Usage Statistics
+---------------------------
+  Dictionary    TotalWords WordsUsed  TotalProns PronsUsed
+    sort.lex      1318       1318       1353       1353
+    dict-tri      1318       1318       1353       1347
+
+1318 words required, 0 missing
+
+New Phone Usage Counts
+---------------------
+  1. a     :  1578
+  2. sp    :  1347
+  3. k     :   443
+  4. u     :   407
+  5. n     :   551
+  6. b     :   269
+  7. w     :    39
+  8. @     :   579
+  9. l     :   298
+ 10. r     :   424
+ 11. d     :   205
+ 12. m     :   399
+ 13. i     :   628
+ 14. g     :   115
+ 15. t     :   400
+ 16. ng    :   214
+ 17. z     :     5
+ 18. h     :   213
+ 19. j     :    93
+ 20. y     :    46
+ 21. p     :   247
+ 22. o     :   172
+ 23. s     :   393
+ 24. ny    :   145
+ 25. ay    :    45
+ 26. e     :   118
+ 27. kh    :     6
+ 28. f     :    30
+ 29. c     :    68
+ 30. aw    :    15
+ 31. sy    :     3
+ 32. ow    :     1
+ 33. v     :     1
+
+Dictionary dict-tri created
