@@ -12,5 +12,8 @@ with open("filelist", "r") as f:
 #     print(f"{pwd}/{nim}_{i:03}.wav {pwd}/{nim}_{i:03}.mfc")
 #     # print(f"{pwd}/{nim}_{i:03}.wav")
 
+# for f in filelist[:len(filelist)//10]:
 for f in filelist[len(filelist)//10:]:
-     print(f"{pwd}/{f}.wav {pwd}/{f}.mfc")
+# for f in filelist:
+    #  print(f"{pwd}/{f}.wav {pwd}/{f}.mfc")
+    print(f"{pwd}/{f}.wav")
